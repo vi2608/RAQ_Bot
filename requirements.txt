@@ -1,0 +1,10 @@
+langchain
+langchain-openai
+langchain_community
+langchain-core
+langchain-astradb
+pypdf
+python-dotenv
+streamlit
+
+-e .
